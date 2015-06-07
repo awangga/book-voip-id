@@ -37,4 +37,4 @@ onlinephone/list | | Get List Online Phone Number
 **CDR :** |
 cdr/list | | Get CDR Data
 **Domain :** |
-domain/list | | Get CDR Data
+domain/list | | Get Domain Data
